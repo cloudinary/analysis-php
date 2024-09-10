@@ -5,6 +5,7 @@
 | Name        | Type          | Description   | Notes         |
 |------------ | ------------- | ------------- | ------------- |
 | **data** | [**\Cloudinary\Analysis\Model\AnalysisPayload**](AnalysisPayload.md) |  | |
+| **limits** | [**\Cloudinary\Analysis\Model\Limits**](Limits.md) |  | [optional] |
 | **requestId** | **string** |  | |
 
 [[Back to Model list]](../../README.md#models)
